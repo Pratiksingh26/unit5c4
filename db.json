@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "samuel",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "art",
+        "drama"
+      ],
+      "image": "https://images.unsplash.com/photo",
+      "id": 1,
+      "subscribed": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "pratik",
+      "password": "prtk261997",
+      "location": "kolkata",
+      "interests": [],
+      "image": "jbdvbkdjbjkdbsjkb",
+      "food": "on",
+      "movies": "on",
+      "culture": "on",
+      "art": "on",
+      "drama": "on",
+      "id": 2
+    },
+    {
+      "name": "bittya",
+      "password": "bittya123",
+      "location": "mumbai",
+      "interests": [],
+      "image": "hdhfhhv",
+      "food": "on",
+      "movies": "on",
+      "culture": "on",
+      "art": "on",
+      "drama": "on",
+      "id": 3
+    },
+    {
+      "name": "itachi",
+      "password": "uchiha",
+      "location": "mumbai",
+      "interests": [],
+      "image": "aaksklaklakankalnkladkaldn",
+      "subscribed": [],
+      "food": "on",
+      "movies": "on",
+      "culture": "on",
+      "art": "on",
+      "drama": "on",
+      "id": 4
+    }
+  ],
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Saunter Strech",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.unsplash.com/photo"
+    }
+  ]
+}
